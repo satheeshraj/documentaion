@@ -1,0 +1,8 @@
+--> Go to : https://www.mongodb.org/downloads and download the bit we needed 
+--> i'm using 32bit so i'm download window 32-bit
+--> Then extract the file the file contain bin directory and 3 files
+--> create folder mongoDB in LocalDisk C
+--> Then create folder name --> data   and inside sub folder name --> db
+--> Now open cmd prompt and go to C:\mongodb\bin
+--> Now type mongod to connect mongo and mongo connected
+--> Open another cmd and check the mongo version using -->mongo
